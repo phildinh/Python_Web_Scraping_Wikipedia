@@ -109,7 +109,9 @@ df
 df.to_csv(r' **COPY YOUR FILE PATH\YOUR NAME FILE.CSV', index=False)
 ```
 
+## Contact Information
 
+For further information, collaboration, or inquiries, feel free to contact [Phil Dinh](mailto:dinhthanhtrung2011@gmail.com).
 
 
 
